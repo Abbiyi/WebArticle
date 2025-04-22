@@ -3,13 +3,20 @@
 ## 📁 Struktur Proyek
 
 
-.
+---
+
 ├── dbcms.sql
+
 ├── index.php
+
 ├── koneksi.php
+
 ├── css/
+
 │   └── styles.css
+
 ├── assets/
+
 │   └── [gambar-artikel]
 
 
